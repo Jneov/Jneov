@@ -52,9 +52,14 @@ Follow the interactive prompts, then launch using your custom command. That's it
 
 ### Step-by-Step Setup
 
+> **Important**
+> The structure to download any latest release is :
+> ```Bash
+curl -L -o file_output_name.tar.zst "https://github.com/Jneov/Jneov/releases/download/tag/desired.tar.zst" 
+> ```
 **1. Download**
 ```bash
-curl -L -o Jneov.tar.zst "https://github.com/Jneov/releases/download/Jneov_1.0/Jneov_version_1.0.tar.zst"
+curl -L -o Jneov_custom_app_name.tar.zst "https://github.com/Jneov/Jneov/releases/download/v1.0/Jneov_custom_app_name.tar.zst"
 ```
 
 **2. Extract**

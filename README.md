@@ -52,11 +52,12 @@ Follow the interactive prompts, then launch using your custom command. That's it
 
 ### Step-by-Step Setup
 
-> **Important**
+> [!Important]
 > The structure to download any latest release is :
 > ```Bash
-curl -L -o file_output_name.tar.zst "https://github.com/Jneov/Jneov/releases/download/tag/desired.tar.zst" 
+> curl -L -o file_output_name.tar.zst "https://github.com/Jneov/Jneov/releases/download/tag/desired.tar.zst" 
 > ```
+
 **1. Download**
 ```bash
 curl -L -o Jneov_custom_app_name.tar.zst "https://github.com/Jneov/Jneov/releases/download/v1.0/Jneov_custom_app_name.tar.zst"
@@ -95,8 +96,8 @@ If you encounter any issues or want to sync plugins:
 <td width="33%" align="center">
 
 ### 🪶 **Featherweight**
-Only **45MB** download
-Uses **≤225MB** storage
+Only **6 MIB** download
+Uses **225 MIB** storage
 
 </td>
 <td width="33%" align="center">
@@ -150,7 +151,7 @@ Runs flawlessly on Termux
 | 🎨 **68 Premium Themes** | Choose your perfect aesthetic |
 | 🔤 **Nerd Fonts Included** | Beautiful icons without extra setup |
 | 🚀 **Instant Performance** | Launches in milliseconds, not seconds |
-| 📦 **Complete Package** | All plugins pre-installed and configured |
+| 📦 **Not a Complete Package** | All plugins are not pre-installed and but are configured |
 | 🔌 **Universal Compatibility** | ARM, x86, x64—runs everywhere |
 | 💼 **Professional Tools** | Everything you need for serious development |
 | 🔧 **Fully Extensible** | Your editor, your rules |
@@ -177,10 +178,8 @@ Download Size:    45MB   ██████░░░░░░░░░░░░�
 Max Storage:      225MB  ████████░░░░░░░░░░░░░░░░░░ (Efficient)
 Startup Time:     <1s    ████████████████████████░░ (Lightning)
 Theme Options:    68     ████████████████████████░░ (Abundant)
-Plugin Downloads: 0      ░░░░░░░░░░░░░░░░░░░░░░░░░░ (None needed!)
+Plugin Downloads  ≈65    █████████████████████░░░░ (Moderate)
 ```
-
----
 
 ## 🤝 Contributing
 
